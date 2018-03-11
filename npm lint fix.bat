@@ -1,0 +1,1 @@
+cd G:\GitProject\ant-design-pro && npm run lint:fix
